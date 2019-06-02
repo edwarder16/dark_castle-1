@@ -1,0 +1,3 @@
+name: sphinx
+currentRoom: castle_gate
+inventory:
